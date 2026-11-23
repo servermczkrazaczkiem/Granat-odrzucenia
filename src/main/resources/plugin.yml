@@ -1,0 +1,11 @@
+name: Granat
+version: 1.0.1
+main: pl.granat.GranatPlugin
+api-version: '1.21'
+commands:
+  granat:
+    description: Daje niezuzywalny granat
+    permission: granat.admin
+permissions:
+  granat.admin:
+    default: op

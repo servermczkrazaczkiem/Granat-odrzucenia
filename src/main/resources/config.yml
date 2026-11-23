@@ -1,0 +1,4 @@
+radius: 6.0
+horizontal-force: 2.2
+vertical-force: 0.8
+affect-thrower: true

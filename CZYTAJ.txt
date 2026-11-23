@@ -1,0 +1,11 @@
+Granat 1.0.1 - NIEZUZYWALNY. Projekt zrodlowy, nie gotowy JAR.
+Paper 1.21.4 / Java 21. Kompilacja: mvn clean package lub GitHub Actions.
+Przedmiot zostaje w rece po rzucie, takze na Survival. Cooldown 30 s na gracza.
+Promien 6 blokow, sila maleje liniowo z odlegloscia od wybuchu.
+Nie nadaje slow falling. Odrzuca tez rzucajacego. Upadek moze zadawac obrazenia.
+Brak integracji z WorldGuardem, druzynami i ochrona PvP.
+Cooldown nie zeruje sie po relogu, ale zeruje sie po restarcie.
+Zatrzymaj serwer, usun stary JAR Granat, wgraj Granat-1.0.1.jar do plugins, uruchom serwer.
+Nie usuwaj Rozgi. Konsola: granat NICK 1
+Stare granaty tez sa rozpoznawane, choc ich opis sie nie zmieni.
+Kod nie zostal skompilowany ani przetestowany na serwerze w tym srodowisku.
